@@ -25,4 +25,8 @@ header-includes:
 - \usepackage{verbatim}
 ---
 
+
 # a new section
+
+# add a picture
+
