@@ -24,3 +24,5 @@ header-includes:
 - \sectionfont{\color{olive}}
 - \usepackage{verbatim}
 ---
+
+# add a picture
